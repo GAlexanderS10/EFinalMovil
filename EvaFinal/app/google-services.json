@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294051040538",
+    "project_id": "final-eee13",
+    "storage_bucket": "final-eee13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294051040538:android:cb858ba79e81d54f16f0a3",
+        "android_client_info": {
+          "package_name": "com.solar.evafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294051040538-15f6ebson8uv6j1vbjiuj46oe75jsegd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solar.evafinal",
+            "certificate_hash": "c03f1569244dd9746847da74905051057856bef5"
+          }
+        },
+        {
+          "client_id": "294051040538-vblk8dj18qqan5cbsglr4a2tltv58gjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0u81vaf6J1AKTAXpO8ZUqob3GnsXjjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294051040538-vblk8dj18qqan5cbsglr4a2tltv58gjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

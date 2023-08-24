@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/efinal_graph"
+    app:startDestination="@id/apiListFragment">
+
+    <fragment
+        android:id="@+id/apiListFragment"
+        android:name="com.solar.evafinal.ui.fragments.ApiListFragment"
+        android:label="fragment_api_list"
+        tools:layout="@layout/fragment_api_list" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.solar.evafinal.ui.fragments.FavoriteFragment"
+        android:label="fragment_favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/fireBaseListFragment"
+        android:name="com.solar.evafinal.ui.fragments.FireBaseListFragment"
+        android:label="fragment_fire_base_list"
+        tools:layout="@layout/fragment_fire_base_list" />
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.solar.evafinal.ui.fragments.LogoutFragment"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" />
+</navigation>
